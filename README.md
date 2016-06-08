@@ -1,0 +1,3 @@
+# pong-game-demo
+Just run pong.html to play.
+Enjoy...
